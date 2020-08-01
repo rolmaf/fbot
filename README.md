@@ -1,2 +1,1 @@
 # fbot
-Fishing Telegram Bot 
